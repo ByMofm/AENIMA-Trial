@@ -1,0 +1,368 @@
+body{
+    position: absolute;
+    max-width: 100%;
+    left: 3em;
+    overflow-x: hidden;
+    
+
+}
+.container-home{
+
+    top: 38px;
+    left: 0px;
+    width: 1366px;
+    height: 730px;
+    opacity: 1;
+    margin: auto;
+   
+
+}
+
+.imghome{
+    
+    top: 38px;
+    left: 0;
+    width: 1366px; 
+    height: 730px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    
+    
+    
+}
+
+
+/* Contenedor Principal */ 
+
+
+.container-left{
+
+    position: absolute;
+    width: 720px !important;
+    height: 214px !important;
+    padding: 0 !important;
+    left: 139px;
+    top: 277px;
+
+}
+
+
+.titulo-home{
+
+
+    top: 0;
+    left: 43px;
+    width: 679px;
+    height: 53px;
+    text-align: left;
+    font: normal normal bold 48px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    display: inline-block;
+    position: absolute;
+    
+    
+}
+
+.pin{
+
+    top: 3px;
+    left: 0;
+    width: 24px;
+    height: 34px;
+    opacity: 1;
+    position: absolute;
+    
+}
+
+.divider{
+
+    top: 83px;
+    left: 0.5px;
+    width: 536px;
+    height: 0px;
+    border: 2px solid #FFFFFF;
+    position: absolute;
+    opacity: 1;
+    margin: 0 !important;
+    
+    
+}
+.texto_home{
+
+
+    top: 107px;
+    left: 0;
+    width: 720px;
+    height: 18px;
+    text-align: left;
+    font: normal normal bold 24px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.texto_descriptivo_home{
+
+
+    bottom: 0;
+    left: 0;
+    width: 536px;
+    height: 61px;
+    text-align: left;
+    font: normal normal normal 16px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+
+}
+
+/* Contenedor Secundario*/
+
+.container-right{
+
+    padding: 0 !important;
+    top: 560px;
+    left: 967px;
+    width: 260px !important;
+    height: 157px !important;
+    background: rgba(42, 48, 55, 0.5) 0% 0% no-repeat padding-box;
+    border: 2px dashed #FFFFFF;
+    border-radius: 6px;
+    position: absolute;
+    
+    
+
+}
+
+.container-right-titulo{
+
+    top: 27px;
+    left: 30px;
+    width: 179px;
+    height: 16px;
+    text-align: left;
+    letter-spacing: 0px;
+    font: normal normal bold 16px/20px Montserrat;
+    color: #FA6980;
+    opacity: 1 ;
+    position: absolute;
+    
+}
+.arrow-titulo{
+
+    top: 30px;
+    left: 226px;
+    width: 6px;
+    height: 10px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+
+}
+
+.container-right-text{
+
+    top: 55px;
+    left: 30px;
+    width: 154px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    
+
+}
+.container-right-decription{
+
+
+    top: 85px;
+    left: 30px;
+    width: 200px;
+    height: 43px;
+    font: normal normal 300 14px/22px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+
+/* Slider inferior */
+.nav-slider{
+
+    top: 667px;
+    left: 0;
+    width: 201px;
+    height: 60px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    
+}
+/* Comienza MEDIA */
+
+
+@media screen and (max-width: 460px){
+
+    body{
+
+        left: 1em;
+    }
+    .container-home{
+    
+        top: 32px;
+        left: 0;
+        width: 360px;
+        height: 607px;
+        
+        
+       
+    
+    }
+    
+    .imghome{
+        
+        top: 32px;
+        left: 0;
+        width: 360px; 
+        height: 607px;
+        object-fit: cover;
+        
+           
+        
+    }
+    
+    
+    /* Contenedor Principal */ 
+    
+    
+    .container-left{
+    
+        width: 286px !important;
+        height: 108px !important;
+        left: 37px;
+        top: 277px;
+    
+    }
+    
+    
+    .titulo-home{
+    
+    
+        top: -9px;
+        left: 15px;
+        width: 264px;
+        height: 24px;
+        font: normal normal bold 24px/42px Montserrat;
+        
+        
+        
+    }
+    
+    .pin{
+    
+        top: 3px;
+        left: 0;
+        width: 12px;
+        height: 17px;
+        
+        
+    }
+    
+    .divider{
+    
+        top: 48px;
+        left: 0px;
+        width: 286px;
+        height: 0px;
+        margin: 0 !important;
+        
+        
+    }
+    .texto_home{
+    
+        top: 68px;
+        left: 0px;
+        width: 286px;
+        height: 60px;
+        text-align: left;
+        letter-spacing: 0px;
+        font: normal normal bold 24px/34px Montserrat;
+    }
+    .texto_descriptivo_home{
+    
+    
+        opacity: 0;
+        
+    
+    }
+    
+    /* Contenedor Secundario*/
+    
+    .container-right{
+    
+        top: 0;
+        left: 0;
+        width: 0 !important;
+        height: 0 !important;
+        opacity: 0;
+        
+    
+    }
+    
+    .container-right-titulo{
+    
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        opacity: 0 ;
+        
+    }
+    .arrow-titulo{
+    
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        opacity: 0;
+        
+    }
+    
+    .container-right-text{
+    
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        opacity: 0;
+        
+    
+    }
+    .container-right-decription{
+    
+    
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+    
+    /* Slider inferior */
+    .nav-slider{
+    
+        top: 555px;
+        left: 0px;
+        width: 87px;
+        height: 50px;
+        opacity: 1;
+        
+    }
+}

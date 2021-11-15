@@ -1,0 +1,517 @@
+.container-blog{
+
+    height: 982px;
+    width: 1088px;
+    background-color: #ffffff 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    top: 1316px;
+    left: 139px;
+    
+}
+.card-image{
+
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+/* Comienza Contenedor Izquierda */
+
+.cnt-blog-text{
+
+    width: 72px;
+    height: 20px;
+    text-align: left;
+    font: normal normal bold 24px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #2A3037;
+    opacity: 1;
+
+}
+.cg-blog-left{
+
+    width: 720px !important;
+    height: 974px !important;
+    position: absolute;
+    padding: 0 !important;
+}
+.col-blog-01{
+
+    padding: 0 !important;
+    top: 41px;
+    position: absolute;
+    left: 0;
+}
+.card01-title-blog{
+
+    
+    width: 690px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 16px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    position: absolute;
+    top: 39px;
+    left: 40px;
+
+}
+
+.card01-text-blog{
+
+    width: 680px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 24px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 287px;
+}
+
+.card01-description-blog{
+
+    width: 630px;
+    height: 42px;
+    text-align: left;
+    font: normal normal normal 16px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 321px;
+}
+
+.icon-time{
+
+    width: 16px;
+    height: 16px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 373px;
+
+}
+
+.card01-time-blog{
+
+    width: 60px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 13px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #CBD0D3;
+    opacity: 1;
+    position: absolute;
+    left: 61px;
+    top:368px;
+
+}
+.col-blog-02{
+
+    padding: 0 !important;
+    top: 511px;
+    position: absolute;
+    left: 0;
+
+}
+
+
+.card02-title-blog{
+
+    width: 690px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 16px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    position: absolute;
+    top: 39px;
+    left: 40px;
+
+
+}
+.card02-text-blog{
+
+    width: 680px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 24px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 287px;
+}
+
+.card02-description-blog{
+
+    width: 630px;
+    height: 42px;
+    text-align: left;
+    font: normal normal normal 16px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 321px;
+}
+
+.icon02-time{
+
+    width: 16px;
+    height: 16px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 373px;
+
+}
+
+.card02-time-blog{
+
+    width: 63px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 13px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #CBD0D3;
+    opacity: 1;
+    position: absolute;
+    left: 61px;
+    top:368px;
+
+}
+
+/* Comienza Contenedor Derecha */
+
+.cg-blog-right{
+
+    width: 352px;
+    height: 922px; 
+    position: absolute;
+    left: 736px;
+    display: grid;
+    top: 61px;
+    padding: 0 !important;
+
+}
+
+
+.col-blog-03{
+
+    padding: 0 !important;
+    top: 0px;
+    position: absolute;
+    left: 0;
+   
+
+}
+
+.card03-text-blog{
+
+    width: 335px;
+    height: 16px;   
+    text-align: left;
+    font: normal normal bold 16px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #202124;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    top: 230px;
+}
+
+.icon03-time{
+
+    width: 16px;
+    height: 16px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    top: 261px;
+
+}
+
+.card03-time-blog{
+
+    width: 62px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 13px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #CBD0D3;
+    opacity: 1;
+    position: absolute;
+    left: 21px;
+    top:256px;
+
+}
+
+
+.col-blog-04{
+
+    padding: 0 !important;
+    top: 312px;
+    position: absolute;
+    left: 0;
+
+}
+
+.card04-text-blog{
+
+    width: 335px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 16px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #202124;;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    top: 230px;
+}
+
+.icon04-time{
+
+    width: 16px;
+    height: 16px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    top: 261px;
+
+}
+
+.card04-time-blog{
+
+    width: 60px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 13px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #CBD0D3;
+    opacity: 1;
+    position: absolute;
+    left: 21px;
+    top:256px;
+
+}
+
+.col-blog-05{
+
+    padding: 0 !important;
+    top: 624px;
+    position: absolute;
+    left: 0;
+
+}
+
+.card05-text-blog{
+
+    width: 335px;
+    height: 16px;
+    text-align: left;
+    font: normal normal bold 16px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #202124;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    top: 230px;
+}
+
+.icon05-time{
+
+    width: 16px;
+    height: 16px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    left: 0;
+    top: 261px;
+
+}
+
+.card05-time-blog{
+
+    width: 60px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 13px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #CBD0D3;
+    opacity: 1;
+    position: absolute;
+    left: 21px;
+    top:256px;
+
+}
+
+/* Comienza MEDIA */
+
+@media screen and (max-width: 460px){
+
+    .container-blog{
+
+        height: 981px;
+        width: 100%;
+        top: 1141px;
+        left: 0;
+        
+    }
+    .card-image{
+    
+        top: 69px;
+        width: 100%;
+        height: 429px;
+        object-fit: cover;
+        left: 0;
+    }
+    /* Comienza Contenedor Izquierda */
+    
+    .cnt-blog-text{
+    
+        top: 0;
+        left: 37px;
+        width: 75px;
+        height: 30px;
+        position: absolute;
+        
+    }
+    .cg-blog-left{
+    
+        width: 100%;
+        height: 921px;
+        padding: 0 !important;
+    }
+    .col-blog-01{
+    
+        top: 41px;
+        left: 0;
+        width: 360px !important;
+        height: 429px;
+    }
+    .card01-title-blog{
+    
+        top: 39px;
+        left: 37px;
+        width: 287px;
+        height: 16px;
+    }
+    
+    .card01-text-blog{
+
+        top: 331px;
+        left: 37px;
+        width: 283px;
+        height: 24px;
+        font: normal normal bold 22px/34px Montserrat;
+
+    }
+    
+    .card01-description-blog{
+    
+        width: 0;
+        height: 0;
+        opacity: 0;
+        left: 0;
+        top: 0;
+    }
+    
+    .icon-time{
+    
+        
+        left: 37px;
+        top: 373px;
+        width: 16px;
+        height: 16px;
+    
+    }
+    
+    .card01-time-blog{
+    
+        top: 369px;
+        left: 61px;
+        width: 59px;
+        height: 16px;
+
+    }
+    .col-blog-02{
+
+        top: 511px;
+        left: 0;
+        width: 360px !important;
+        height: 429px;
+
+    }
+    
+    
+    .card02-title-blog{
+    
+        width: 287px;
+        height: 16px;
+        top: 39px;
+        left: 37px;
+    
+    
+    }
+    .card02-text-blog{
+    
+        left: 37px;
+        width: 283px;
+        height: 24px;
+        font: normal normal bold 22px/34px Montserrat;
+        top: 331px;
+    }
+    
+    .card02-description-blog{
+    
+        width: 0;
+        height: 0;
+        opacity: 0;
+        left: 0;
+        top: 0;
+    }
+    
+    .icon02-time{
+    
+        left: 37px;
+        top: 373px;
+        width: 16px;
+        height: 16px;
+        top: 377px;
+    
+    }
+    
+    .card02-time-blog{
+    
+        left: 61px;
+        width: 63px;
+        height: 16px;
+        top:373px;
+    
+    }
+    
+    /* Comienza Contenedor Derecha */
+    
+    .cg-blog-right,.col-blog-03,.card03-text-blog,.icon03-time,.card03-time-blog,.col-blog-04,.card04-text-blog,.icon04-time,.card04-time-blog,.col-blog-05,.card05-text-blog,.icon05-time,.card05-time-blog{
+    
+        width: 0;
+        height: 0;
+        left: 0;
+        top: 0;
+        opacity: 0;
+     
+    }
+}
